@@ -1,12 +1,12 @@
-<img align="left" src="assets/CodingAlliance.gif" width="150" style="margin-right: 20px;">
+<img align='right' src="assets/CodingAlliance.gif" width="200">
 
-### Hey!
+### hey guys!
+<img src="https://img.shields.io/static/v1?label=Overview&message=tatodev&color=gray&style=flat&logo=GitHub" alt="Static GitHub"> <img src="https://komarev.com/ghpvc/?username=tatodev&style=flat&color=313131&label=views&abbreviated=true"/>
 
-👾 i'm **tato**, trans man.
+<p>🏳️‍⚧️ i'm tato, trans man.</p>
+<p>🦀 curious about why some solutions work better than others</p>
 
-🦀 curious about why some solutions work better than others.
-
- <div align="left">
+<div align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&labelColor=545454&color=F7DF1E&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Ruby-CC342D?style=flat&labelColor=545454&color=CC342D&logo=ruby&logoColor=white"/>
   <img src="https://img.shields.io/badge/Rails-CC0000?style=flat&labelColor=545454&color=CC0000&logo=ruby-on-rails&logoColor=white"/>
@@ -15,15 +15,14 @@
   <img src="https://img.shields.io/badge/Postgres-316192?style=flat&labelColor=545454&color=316192&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&labelColor=545454&color=007ACC&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Next-black?style=flat&labelColor=545454&color=000000&logo=next.js&logoColor=white"/>
-  <img src="https://komarev.com/ghpvc/?username=tatodev&style=flat&color=313131&label=views&abbreviated=true"/>
 </div>
 
-  <p align="center">
-    <a href="https://github.com/kittinan/spotify-github-profile">
-      <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31coj6hf7fkp7rpvdeoo77c2dfjq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="spotify-github-profile"/>
-    </a>
-  </p>
-  
+
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31coj6hf7fkp7rpvdeoo77c2dfjq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="spotify-github-profile"/>
+  </a>
+</p>
 
 
 <!--div align="center">
