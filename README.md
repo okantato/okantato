@@ -1,23 +1,22 @@
-<img align='right' src="assets/download.gif" width="350">
+<img align='right' src="assets/download.gif" width="300">
 
 ### hey guys!
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=tatodev&color=gray&style=flat&logo=GitHub" alt="Static GitHub"> <img src="https://komarev.com/ghpvc/?username=tatodev&style=flat&color=313131&label=views&abbreviated=true"/>
 
-<p>🏳️‍⚧️ i'm tato, trans man.</p>
+<p>👾 i'm **tato**</p>
 <p>🦀 curious about why some solutions work better than others</p>
-
+<p>🤖 coding in ruby, exploring new stacks, and playing music to remind myself i’m human.</p>
 <div align="left">
-  <img src="https://img.shields.io/badge/Ruby-CC342D?style=flat&labelColor=545454&color=CC342D&logo=ruby&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Rails-CC0000?style=flat&labelColor=545454&color=CC0000&logo=ruby-on-rails&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&labelColor=545454&color=38B2AC&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&labelColor=545454&color=61DAFB&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postgres-316192?style=flat&labelColor=545454&color=316192&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&labelColor=545454&color=007ACC&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-black?style=flat&labelColor=545454&color=000000&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Next-black?style=flat&labelColor=545454&color=000000&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-black?style=flat&labelColor=545454&color=000000&logo=nodedotjs&logoColor=white"/>
-
+  <img src="https://img.shields.io/badge/Ruby-545454?style=flat&labelColor=545454&logo=ruby&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Rails-545454?style=flat&labelColor=545454&logo=ruby-on-rails&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-545454?style=flat&labelColor=545454&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-545454?style=flat&labelColor=545454&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postgres-545454?style=flat&labelColor=545454&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-545454?style=flat&labelColor=545454&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-545454?style=flat&labelColor=545454&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next-545454?style=flat&labelColor=545454&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-545454?style=flat&labelColor=545454&logo=nodedotjs&logoColor=white"/>
 </div>
 
 <p align="left">
