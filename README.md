@@ -1,4 +1,32 @@
-<div align="center">
+<img align="left" src="assets/CodingAlliance.gif" width="150" style="margin-right: 20px;">
+
+### Hey!
+
+👾 i'm **tato**, trans man.
+
+🦀 curious about why some solutions work better than others.
+
+ <div align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&labelColor=545454&color=F7DF1E&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Ruby-CC342D?style=flat&labelColor=545454&color=CC342D&logo=ruby&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Rails-CC0000?style=flat&labelColor=545454&color=CC0000&logo=ruby-on-rails&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&labelColor=545454&color=38B2AC&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&labelColor=545454&color=61DAFB&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postgres-316192?style=flat&labelColor=545454&color=316192&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&labelColor=545454&color=007ACC&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next-black?style=flat&labelColor=545454&color=000000&logo=next.js&logoColor=white"/>
+  <img src="https://komarev.com/ghpvc/?username=tatodev&style=flat&color=313131&label=views&abbreviated=true"/>
+</div>
+
+  <p align="center">
+    <a href="https://github.com/kittinan/spotify-github-profile">
+      <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31coj6hf7fkp7rpvdeoo77c2dfjq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="spotify-github-profile"/>
+    </a>
+  </p>
+  
+
+
+<!--div align="center">
   <h3>
     <samp>&gt; Hey There!, I am Tato</samp>
   </h3>
@@ -38,9 +66,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tatobrito&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="160" alt="languages graph"  />
   
 </div-->
-
-  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31coj6hf7fkp7rpvdeoo77c2dfjq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
-
-  [![](https://visitcount.itsvg.in/api?id=tatobrito&icon=0&color=0)](https://visitcount.itsvg.in)
-</div>
