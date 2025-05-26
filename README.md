@@ -4,7 +4,7 @@
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=tatodev&color=gray&style=flat&logo=GitHub" alt="Static GitHub"> <img src="https://komarev.com/ghpvc/?username=tatodev&style=flat&color=313131&label=views&abbreviated=true"/>
 
-<p>👾 i'm **tato**</p>
+<p>👾 i'm *tato*</p>
 <p>🦀 curious about why some solutions work better than others</p>
 <p>🤖 coding in ruby, exploring new stacks, and playing music to remind myself i’m human.</p>
 <div align="left">
