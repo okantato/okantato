@@ -1,4 +1,4 @@
-<img align='right' src="assets/CodingAlliance.gif" width="200">
+<img align='right' src="assets/download.gif" width="300">
 
 ### hey guys!
 <img src="https://img.shields.io/static/v1?label=Overview&message=tatodev&color=gray&style=flat&logo=GitHub" alt="Static GitHub"> <img src="https://komarev.com/ghpvc/?username=tatodev&style=flat&color=313131&label=views&abbreviated=true"/>
@@ -16,7 +16,6 @@
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&labelColor=545454&color=007ACC&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Next-black?style=flat&labelColor=545454&color=000000&logo=next.js&logoColor=white"/>
 </div>
-
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
