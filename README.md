@@ -1,4 +1,4 @@
-<img align='right' src="assets/download.gif" width="300">
+<img align="right" src="assets/download.gif" width="300" style="padding: 16px;">
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=tatodev&color=gray&style=flat&logo=GitHub" alt="Static GitHub"> <img src="https://komarev.com/ghpvc/?username=tatodev&style=flat&color=313131&label=views&abbreviated=true"/>
 
