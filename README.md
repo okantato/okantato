@@ -2,9 +2,9 @@
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=tatodev&color=gray&style=flat&logo=GitHub" alt="Static GitHub"> <img src="https://komarev.com/ghpvc/?username=tatodev&style=flat&color=313131&label=views&abbreviated=true"/>
 
-👾 eu sou **tato**
-<p>🧠 curioso sobre por que algumas soluções funcionam melhor do que outras</p>
-<p>🧑‍💻 programando em Ruby, explorando novas stacks e sempre curtindo uma música para me lembrar que sou humano hehe</p>
+👾 i'm **tato**
+<p>🧠 curious about why some solutions work better than others.</p>
+<p>🧑‍💻 coding in ruby, exploring new stacks and always enjoying some music to remind myself that i'm human.</p>
 <div align="left">
   <img src="https://img.shields.io/badge/Ruby-545454?style=flat&labelColor=545454&logo=ruby&logoColor=white"/>
   <img src="https://img.shields.io/badge/Rails-545454?style=flat&labelColor=545454&logo=ruby-on-rails&logoColor=white"/>
