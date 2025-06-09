@@ -1,5 +1,10 @@
 <img align="right" src="assets/download.gif" width="300">
 
+<br>
+<br>
+<br>
+<br>
+
 <img src="https://img.shields.io/static/v1?label=Overview&message=tatodev&color=gray&style=flat&logo=GitHub" alt="Static GitHub"> <img src="https://komarev.com/ghpvc/?username=tatodev&style=flat&color=313131&label=views&abbreviated=true"/>
 
 👾 oiii eu sou o **tato**
