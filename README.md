@@ -9,7 +9,7 @@
 
 👾 oiii eu sou o **tato**
 <p>🧠 curioso sobre por que algumas soluções funcionam melhor do que outras.</p>
-<p>🧑‍💻 no momento programando em Ruby, explorando novas stacks e sempre curtindo uma música para não esquecer que sou humano hehe</p>
+<p>🌄 no momento programando em Ruby, explorando novas stacks e sempre curtindo uma música para não esquecer que sou humano hehe</p>
 <div align="left">
   <img src="https://img.shields.io/badge/Ruby-545454?style=flat&labelColor=545454&logo=ruby&logoColor=white"/>
   <img src="https://img.shields.io/badge/Rails-545454?style=flat&labelColor=545454&logo=ruby-on-rails&logoColor=white"/>
