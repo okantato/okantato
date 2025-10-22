@@ -7,7 +7,7 @@
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=tatodev&color=gray&style=flat&logo=GitHub" alt="Static GitHub"> <img src="https://komarev.com/ghpvc/?username=tatodev&style=flat&color=313131&label=views&abbreviated=true"/>
 
-<p>🧑‍💻 no momento programando em Ruby, explorando novas stacks e sempre curtindo uma música para não esquecer que sou humano hehe</p>
+<p> no momento programando em Ruby, explorando novas stacks e sempre curtindo uma música para não esquecer que sou humano hehe</p>
 <div align="left">
   <img src="https://img.shields.io/badge/Ruby-545454?style=flat&labelColor=545454&logo=ruby&logoColor=white"/>
   <img src="https://img.shields.io/badge/Rails-545454?style=flat&labelColor=545454&logo=ruby-on-rails&logoColor=white"/>
