@@ -13,10 +13,10 @@
   <img src="https://img.shields.io/badge/Rails-545454?style=flat&labelColor=545454&logo=ruby-on-rails&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-545454?style=flat&labelColor=545454&logo=tailwind-css&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-545454?style=flat&labelColor=545454&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postgres-545454?style=flat&labelColor=545454&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-545454?style=flat&labelColor=545454&logo=typescript&logoColor=white"/>
+  <!--img src="https://img.shields.io/badge/Postgres-545454?style=flat&labelColor=545454&logo=postgresql&logoColor=white"/-->
+  <!--img src="https://img.shields.io/badge/TypeScript-545454?style=flat&labelColor=545454&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Next-545454?style=flat&labelColor=545454&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-545454?style=flat&labelColor=545454&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-545454?style=flat&labelColor=545454&logo=nodedotjs&logoColor=white"/-->
 </div>
 
 <p align="center">
