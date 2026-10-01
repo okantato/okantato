@@ -7,8 +7,6 @@
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=tatodev&color=gray&style=flat&logo=GitHub" alt="Static GitHub"> <img src="https://komarev.com/ghpvc/?username=tatodev&style=flat&color=313131&label=views&abbreviated=true"/>
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=tatodev&color=gray&style=flat&logo=GitHub" alt="Static GitHub"> <img src="https://komarev.com/ghpvc/?username=tatodev&style=flat&color=313131&label=views&abbreviated=true"/>
-
 
 <p> no momento programando em Ruby, explorando novas stacks <br> e sempre curtindo uma música para não esquecer que sou humano hehe</p>
 <div align="left">
