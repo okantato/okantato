@@ -5,7 +5,7 @@
 <br>
 <br>
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=tatodev&color=gray&style=flat&logo=GitHub" alt="Static GitHub"> <img src="https://komarev.com/ghpvc/?username=tatodev&style=flat&color=313131&label=views&abbreviated=true"/>
+<img src="https://img.shields.io/static/v1?label=Overview&message=tatodev&color=gray&style=flat&logo=GitHub" alt="Static GitHub"> 
 
 
 <p> no momento programando em Ruby, explorando novas stacks <br> e sempre curtindo uma música para não esquecer que sou humano hehe</p>
@@ -13,6 +13,7 @@
   <img src="https://img.shields.io/badge/Ruby-545454?style=flat&labelColor=545454&logo=ruby&logoColor=white"/>
   <img src="https://img.shields.io/badge/Rails-545454?style=flat&labelColor=545454&logo=ruby-on-rails&logoColor=white"/>
   <!--img src="https://img.shields.io/badge/Tailwind_CSS-545454?style=flat&labelColor=545454&logo=tailwind-css&logoColor=white"/>
+<img src="https://komarev.com/ghpvc/?username=tatodev&style=flat&color=313131&label=views&abbreviated=true"/>
   <!--img src="https://img.shields.io/badge/React-545454?style=flat&labelColor=545454&logo=react&logoColor=white"/-->
   <!--img src="https://img.shields.io/badge/Postgres-545454?style=flat&labelColor=545454&logo=postgresql&logoColor=white"/-->
   <!--img src="https://img.shields.io/badge/TypeScript-545454?style=flat&labelColor=545454&logo=typescript&logoColor=white"/>
